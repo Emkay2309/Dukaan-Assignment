@@ -7,7 +7,7 @@ function NavbarBottom() {
   return (
     <div 
     className='flex flex-row w-[192px] h-[54px]  rounded-[4px] 
-    pr-[12px] pt-[6px] pb-[6px] pl-[12px] bg-gray-800  
+    pr-[12px] pt-[6px] pb-[6px] pl-[6px] bg-gray-800  
     gap-[10px] border-2 bg-indigo-light  
     text-white mt-[120px] ml-[16px]'>
         <div className='w-[36px] h-[36px] p-1.5'>
